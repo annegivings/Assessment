@@ -13,7 +13,8 @@ To find the total amounts disbursed for each school, I had to create a new colum
 
 **Question 2**
 _For each state calculate the number of recipients for undergraduate student loans at non-public institutions in 2015. What was the largest difference between subsidized and unsubsidized loans in a single state?_
-- Provide answer as a number
+
+Since this question asks only about non-public institutions, I first filtered out all of the public schools.  Then, I copied the State, Recipient (Subsidized), and Receipient (Unsubsidized- Undergraduate) into a new worksheet so I had less to deal with.  I created a new table including only one instance of each state in a new table.  I used the 
 
 **Question 3**
 _Compare HBCUs established prior to the Reconstruction Era and those established during Reconstruction. Which group had the largest change in number of loan recipients between 2010 and 2015?_
